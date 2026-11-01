@@ -1,0 +1,22 @@
+{
+  "wheel_id": 602,
+  "structure": "umbrella",
+  "slug": "garagedoorrepairsnorthbrisbane-com-108",
+  "project": "garage-door-repairs-north-brisbane-glossary-bec7460eadd5363b241",
+  "parent_t1_ref": "garagedoorrepairsnorthbrisbane-com-153",
+  "node_role": "feeder",
+  "money_target": "garagedoorrepairsnorthbrisbane.com.au",
+  "primary_kw": "garage door repairs north brisbane glossary",
+  "intended_url": "https://sitesau.github.io/garagedoorrepairsnorthbrisbane-com-108/",
+  "tier": "T2",
+  "writeback_nonce": "f7bd2885979b493a",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/garage-door-repairs-north-brisbane-budget-tips-631fd12381d9e2c0/",
+      "anchor": "Garage Door Repairs North Brisbane Budget Tips: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
